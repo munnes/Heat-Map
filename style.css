@@ -1,0 +1,26 @@
+#title{
+    font-size: xx-large;
+}
+div{
+    width:1260px;
+    text-align: center;
+}
+
+body{
+    font-family: sans-serif;
+}
+.cell:hover {
+ stroke: black;
+ stroke-width: 2;
+  }
+.tick{
+      font-size: 12px;
+  }
+ .axis-txt{
+    font-size: 23px;
+    opacity: 0.7;
+    font-weight: 400;
+ }
+.txtK{
+    font-size: 11px;
+}
